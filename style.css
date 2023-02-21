@@ -1,0 +1,21 @@
+input {
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    width: auto;
+}
+
+div {
+    border-radius: 5px;
+    padding-left: 20px;
+    width: fit-content;
+}
+li.none {
+    padding: 30px;
+    list-style-type: none;
+}
+li {
+    padding: 30px;
+    list-style-type: none;
+    background-color: aliceblue;
+}
